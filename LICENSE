@@ -1,0 +1,12 @@
+foobar2000 Chinese Localization — Binary Distribution License
+Copyright © 2026 Charles. All rights reserved except as expressly granted below.
+
+1. Permission is granted to use this component free of charge and to copy and redistribute the original, complete, unmodified release packages, provided that this license, all copyright notices, and all third-party licenses are retained. No fee may be charged for the component itself without Charles's prior written permission.
+2. This permission does not grant access to or require disclosure of implementation source code. Modification or distribution of modified component binaries requires Charles's prior written permission. Users may edit, import, export, and share their own dictionary translations; this license does not claim ownership of their contributions or override third-party rights in dictionary content.
+3. This license applies only to Charles's original contributions and project documentation. foobar2000, its SDK, pfc, libPPUI, and other third-party materials remain subject to their respective licenses. See licenses/ and the license files included in each release. This license does not limit rights granted by those licenses or rights that applicable law does not allow to be restricted.
+4. This is an unofficial third-party component. No endorsement by the foobar2000 authors is implied. No rights to third-party trademarks are granted.
+5. THE COMPONENT IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND. TO THE EXTENT PERMITTED BY APPLICABLE LAW, CHARLES SHALL NOT BE LIABLE FOR CLAIMS OR DAMAGES ARISING FROM ITS USE.
+
+Contact: Charles <charlesangelscn@gmail.com>
+
+中文说明：本组件可免费使用；可在保留本许可、版权声明及第三方许可的前提下，原样分享完整发布包。未经 Charles 书面许可，不得对组件本身收费或分发修改后的组件二进制文件。用户可自行编辑、导入、导出和分享自己的词库译文，相关第三方权利不受影响。本许可仅适用于 Charles 的原创贡献及项目说明，不替代第三方许可，不提供源代码，也不要求公开源代码。软件按现状提供，在法律允许范围内不作担保、不承担使用产生的责任；依法不得排除的权利和责任不受影响。如中英文表述存在差异，以英文条款为准。
