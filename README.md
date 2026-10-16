@@ -38,4 +38,7 @@
 
 Copyright © 2026 [Charles](mailto:charlesangelscn@gmail.com). All rights reserved.
 
-本组件为独立第三方作品，未获 foobar2000 官方背书。Charles 的版权声明适用于新增代码及翻译整理内容，不改变 foobar2000、SDK 和第三方内容的权利。详见 [版权声明](COPYRIGHT.txt) 及 第三方许可证：[SDK](sdk-license.txt)、[pfc](pfc-license.txt)、[libPPUI](libPPUI-license.txt)。
+本组件为独立第三方作品，未获 foobar2000 官方背书。Charles 的版权声明适用于新增代码及翻译整理内容，不改变 foobar2000、SDK 和第三方内容的权利。详见 [版权声明](COPYRIGHT.txt) 及 第三方许可证：[SDK](licenses/sdk-license.txt)、[pfc](licenses/pfc-license.txt)、[libPPUI](licenses/libPPUI-license.txt)。
+
+组件可免费使用，并允许原样分享完整发布包，具体授权及限制见 [Charles 项目许可证](LICENSE)。第三方许可证仅适用于对应的第三方内容。
+
