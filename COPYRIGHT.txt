@@ -1,0 +1,8 @@
+Copyright © 2026 Charles. All rights reserved.
+版权所有 © 2026 Charles。保留所有权利。
+
+本声明适用于本汉化组件中由 Charles 提供的新增部分。
+foobar2000、其 SDK、pfc、libPPUI 及其他第三方内容的权利归各自权利人所有，
+其使用与分发分别遵循随包附带的相关许可。本声明不替代或变更这些许可。
+
+本组件为非官方汉化组件，不代表 foobar2000 原作者的认可或背书。
