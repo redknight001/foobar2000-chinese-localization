@@ -1,4 +1,4 @@
-# foobar2000 汉化组件 0.5.0 试用版
+# foobar2000 汉化组件 0.5.1 试用版
 
 Copyright © 2026 [Charles](mailto:charlesangelscn@gmail.com). All rights reserved.
 
@@ -6,7 +6,7 @@ Copyright © 2026 [Charles](mailto:charlesangelscn@gmail.com). All rights reserv
 
 ## 安装
 
-解压分发包，在 foobar2000 的 Preferences → Components → Install 中选择 foo_localization-0.5.0.fb2k-component，应用并重启。
+解压分发包，在 foobar2000 的 Preferences → Components → Install 中选择 foo_localization-0.5.1.fb2k-component，应用并重启。
 已安装旧版时请通过同样方法升级；建议保留自己的词库备份。
 
 ## 使用
@@ -37,3 +37,9 @@ Copyright © 2026 [Charles](mailto:charlesangelscn@gmail.com). All rights reserv
 组件在运行时翻译常见菜单、对话框和标准控件，收集实际遇到的英文，不会扫描用户音频文件。自绘界面、图片中文字、某些第三方控件可能无法覆盖；同一英文在不同语境下目前共享译文。
 本包只包含汉化组件、说明和许可证，不包含 foobar2000 播放器，也不包含开发者个人词库、日志、配置或反编译结果。
 本组件为独立第三方作品，未获 foobar2000 官方背书。Charles 的版权声明仅适用于本组件新增的代码和翻译整理内容，第三方权利及许可证保持不变，详见 COPYRIGHT.txt 和 licenses。
+
+## 0.5.1 修复说明
+修复按 Alt 或 F10 切换快捷键提示时，主菜单栏恢复英文的问题。保留原有词库、设置和功能。
+
+组件使用与原样分发授权见 LICENSE；第三方内容遵循其随附许可证。
+
