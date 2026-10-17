@@ -2,15 +2,19 @@
 
 让熟悉的音乐播放器，用更顺手的中文陪你听音乐。
 
-本仓库发布由 Charles 制作的 foobar2000 汉化组件及使用说明，仅提供编译后的组件，不公开源代码。当前稳定版本为 **v0.5.0**。
+本仓库发布由 Charles 制作的 foobar2000 汉化组件及使用说明，仅提供编译后的组件，不公开源代码。当前稳定版本为 **v0.5.1**。
 
 组件在运行时翻译界面文字，无需修改 foobar2000 主程序。支持统一中英词库、逐条调整、自动收集英文，以及交给 AI 批量翻译后导入合并。
 
 ## 下载与安装
 
-请在 [Releases 发布页面](https://github.com/redknight001/foobar2000-chinese-localization/releases/tag/v0.5.0) 下载 v0.5.0 分发包，解压后通过 foobar2000 的 **Preferences → Components → Install** 安装其中的 `.fb2k-component` 文件，应用并重启。
+请在 [Releases 发布页面](https://github.com/redknight001/foobar2000-chinese-localization/releases/tag/v0.5.1) 下载 v0.5.1 分发包，解压后通过 foobar2000 的 **Preferences → Components → Install** 安装其中的 `.fb2k-component` 文件，应用并重启。
 
 适用于 **Windows x64 的 foobar2000 2.26 / 2.26.1**，已在 2.26.1 便携版中测试。安装版与便携版使用相同组件。其他版本、32 位版本及所有第三方组件尚未全面验证。
+
+## v0.5.1 修复
+
+修复按 Alt 或 F10 切换快捷键提示后，主菜单栏恢复英文的问题。保留原有词库、设置和功能；已在 foobar2000 2.26.1 x64 安装版验证 Alt 连续切换、Alt+F、F10 和 Esc。v0.5.0 历史发布保留，可用于回退。
 
 ## 特色
 
