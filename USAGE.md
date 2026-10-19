@@ -1,4 +1,4 @@
-# foobar2000 汉化组件 0.5.4
+# foobar2000 汉化组件 0.5.5
 
 Copyright © 2026 [Charles](mailto:charlesangelscn@gmail.com). All rights reserved.
 
@@ -6,7 +6,7 @@ Copyright © 2026 [Charles](mailto:charlesangelscn@gmail.com). All rights reserv
 
 ## 安装
 
-解压分发包，在 foobar2000 的 Preferences → Components → Install 中选择 foo_localization-0.5.4.fb2k-component，应用并重启。
+解压分发包，在 foobar2000 的 Preferences → Components → Install 中选择 foo_localization-0.5.5.fb2k-component，应用并重启。
 已安装旧版时请通过同样方法升级；建议保留自己的词库备份。
 
 ## 使用
@@ -57,3 +57,15 @@ Copyright © 2026 [Charles](mailto:charlesangelscn@gmail.com). All rights reserv
 - 已有非空个人译文保留，待翻译的空条目可以由新内置译文补齐。
 
 已在 foobar2000 2.26.1 x64 安装版核对上述界面，并通过 39 项内容保护及翻译路径检查。播放列表、专辑列表及音乐内容提示不参与翻译或新增收集。顶部选框的当前值、内部标签标识符和部分自绘界面仍可能显示英文。
+
+
+## 0.5.5 更新
+
+- 扩展程序窗口、标签、布局元素分组及排序下拉框的汉化，改善默认播放列表名称显示的一致性。
+- 修复菜单功能说明的词库匹配，补充控制台固定日志及错误原因说明的中文显示。
+- 保留歌曲、专辑、艺术家、文件路径及自定义名称；内置通用词库共 3693 条。
+- 延续原有词库编辑、去重合并、导入导出和主题跟随功能。
+
+本版基于用户试用确认转为正式版，发布构建通过 381 项程序路径及内容保护检查。
+已在 2.26.1 x64 安装版抽查包含六层布局入口在内的多个分支；部分自绘或第三方界面仍可能存在遗漏。
+上方旧版更新记录中的词条数量和限制描述仅对应各自版本。
