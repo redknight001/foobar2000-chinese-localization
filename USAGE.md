@@ -1,12 +1,12 @@
-# foobar2000 汉化组件 0.5.13
+# foobar2000 汉化组件 0.5.14
 
 Copyright © 2026 [Charles](mailto:charlesangelscn@gmail.com). All rights reserved.
 
-适用于 foobar2000 2.26 / 2.26.1 / 2.26.2 的 Windows x64 版本。本次调整菜单汉化时机，本机 2.26.2 x64 已验证常用菜单执行正常；原受影响试用者仍待回测。其他版本、32 位版本以及所有第三方组件尚未全面验证。
+适用于 Windows x64 的 foobar2000 2.26 / 2.26.1 / 2.26.2 / 2.26.3。2.26.3 已通过自动兼容性回归，实际鼠标点选仍待验证。
 
 ## 安装
 
-解压分发包，在 foobar2000 的 首选项 → 组件 → 安装 中选择 foo_localization-0.5.13.fb2k-component，应用并重启。
+解压分发包，在 foobar2000 的 首选项 → 组件 → 安装 中选择 foo_localization-0.5.14.fb2k-component，应用并重启。
 已安装旧版时请通过同样方法升级；建议保留自己的词库备份。
 
 ## 使用
@@ -38,7 +38,7 @@ Copyright © 2026 [Charles](mailto:charlesangelscn@gmail.com). All rights reserv
 本包只包含内置词库的汉化组件、说明和许可证，不包含 foobar2000 播放器，也不包含开发者个人词库、日志、配置或反编译结果。
 本组件为独立第三方作品，未获 foobar2000 官方背书。Charles 的版权声明仅适用于本组件新增的代码和翻译整理内容，第三方权利及许可证保持不变，详见 COPYRIGHT.txt 和 licenses。
 
-## v0.5.13 更新
+## v0.5.14 更新
 
 - “全局启用汉化”简化为“启用汉化”。
 - “导出未翻译词库／导入词库／导出完整词库”三个按钮横向均分。
